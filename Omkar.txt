@@ -2,3 +2,11 @@ My name is Omkar
 My name is Omkar
 My name is Omkar
 My name is Omkar
+
+
+Added New Method m1():
+
+public void m1()
+{
+system.out.println("Good Morning")
+}

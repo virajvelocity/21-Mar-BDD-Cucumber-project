@@ -2,3 +2,10 @@ public static void main(string[] args)
 {
 system.out.println("hi")
 }
+
+Added New Method m2():
+
+public void m2()
+{
+system.out.println("Good Afternoon")
+}
